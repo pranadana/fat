@@ -1,4 +1,15 @@
+
 nama : M.fakhrizi
 TTL : bekasi, 29 januari 2004
 Asal Daerah : Cikarang, Jawa barat
 No. HP : 089514367182
+
+nama : Agus Setiawan
+TTL : Indramayu, 16 Agustus 2002
+Asal Daerah : Indramayu
+No. HP : 085804686544
+
+nama : Ahmad Turmuzi
+TTL : Loang Tuna, 10 Juni 2003
+Asal Daerah : Lombok Timur, NTB
+No. HP : 087759903684
