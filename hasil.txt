@@ -2,3 +2,8 @@ nama : Agus Setiawan
 TTL : Indramayu, 16 Agustus 2002
 Asal Daerah : Indramayu
 No. HP : 085804686544
+
+nama : Ahmad Turmuzi
+TTL : Loang Tuna, 10 Juni 2003
+Asal Daerah : Lombok Timur, NTB
+No. HP : 087759903684
