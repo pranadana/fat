@@ -1,4 +1,14 @@
->>>>>> hasil pada branch masing-masing <<<<<<<
+>>>>>> hasil pada branch main <<<<<<<
+
+nama : Ahmad Turmuzi
+TTL : Loang Tuna, 10 Juni 2003
+Asal Daerah : Lombok Timur, NTB
+No. HP : 087759903684
+
+nama : Ahmad Turmuzi
+TTL : Loang Tuna, 10 Juni 2003
+Asal Daerah : Lombok Timur, NTB
+No. HP : 087759903684
 
 nama : Ahmad Turmuzi
 TTL : Loang Tuna, 10 Juni 2003
